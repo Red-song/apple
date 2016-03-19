@@ -462,7 +462,7 @@ article{
 .bannerbox div:nth-child(1) .bg_img{
     background-image: url(images/indeximages/cny_tvad_home_hero_large.jpg);
     background-repeat: no-repeat;
-    background-position:90% center;
+   /*  background-position:90% center; */
     background-size: cover;
 }
 .bannerbox div:nth-child(1) .neirongbox{
@@ -483,8 +483,8 @@ article{
 .bannerbox div:nth-child(2) .bg_img{
     background-image: url(images/indeximages/home_hero_cny_medium.jpg);
     background-repeat: no-repeat;
-    background-position:center 161px;
-    background-size: 920px 662px;
+   /*  background-position:center 161px; */
+    background-size: cover;
 }
 .bannerbox div:nth-child(2) .neirongbox{
     width: 100%;
@@ -519,8 +519,8 @@ article{
 .bannerbox div:nth-child(3) .bg_img{
     background-image: url(images/indeximages/home_hero_ssn_large.png);
     background-repeat: no-repeat;
-    background-position:center 10px;
-    background-size: 1433px 610px;
+   /*  background-position:center 10px; */
+    background-size: cover;
 }
 .bannerbox div:nth-child(3) .neirongbox{
     width: 100%;
@@ -553,8 +553,8 @@ article{
 .bannerbox div:nth-child(4) .bg_img{
     background-image: url(images/indeximages/hero_music_movies_books_large.png);
     background-repeat: no-repeat;
-    background-position:center 219px;
-    background-size: 768px 399px;
+   /*  background-position:center 219px; */
+    background-size: cover;
 }
 .bannerbox div:nth-child(4) .neirongbox{
     width: 100%;
@@ -707,7 +707,7 @@ article{
         display:block;
     }
     article{
-        height:250px;
+        height:300px;
     }
     .botnavan{
         bottom:0px;
